@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="210mm"
+   height="297mm"
+   viewBox="0 0 744.09448819 1052.3622047"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.91 r13725"
+   sodipodi:docname="embeddings.svg">
+  <defs
+     id="defs4" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.98994949"
+     inkscape:cx="266.54748"
+     inkscape:cy="777.51835"
+     inkscape:document-units="px"
+     inkscape:current-layer="g4153"
+     showgrid="false"
+     inkscape:window-width="1920"
+     inkscape:window-height="1004"
+     inkscape:window-x="0"
+     inkscape:window-y="24"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Capa 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <g
+       id="g4146"
+       transform="translate(-17.172593,0)">
+      <circle
+         r="136.37059"
+         cy="225.04727"
+         cx="195.96959"
+         id="path4136"
+         style="opacity:1;fill:none;fill-opacity:1;stroke:#1500d1;stroke-width:5.5999999;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+      <text
+         sodipodi:linespacing="125%"
+         id="text4138"
+         y="181.61072"
+         x="197.0782"
+         style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         xml:space="preserve"><tspan
+           style="text-align:center;text-anchor:middle"
+           y="181.61072"
+           x="197.0782"
+           id="tspan4140"
+           sodipodi:role="line">General</tspan><tspan
+           style="text-align:center;text-anchor:middle"
+           id="tspan4142"
+           y="231.61072"
+           x="197.0782"
+           sodipodi:role="line">language</tspan><tspan
+           style="text-align:center;text-anchor:middle"
+           id="tspan4144"
+           y="281.61072"
+           x="197.0782"
+           sodipodi:role="line">embedding</tspan></text>
+    </g>
+    <g
+       transform="translate(190.91883,2.0203051)"
+       id="g4153">
+      <circle
+         style="opacity:1;fill:none;fill-opacity:1;stroke:#09d100;stroke-width:5.15288401;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         id="circle4155"
+         cx="215.16249"
+         cy="153.32645"
+         r="125.48247" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-weight:normal;font-size:27.7655201px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         x="216.05305"
+         y="121.80774"
+         id="text4157"
+         sodipodi:linespacing="125%"><tspan
+           sodipodi:role="line"
+           id="tspan4159"
+           x="216.05305"
+           y="121.80774"
+           style="text-align:center;text-anchor:middle">Domain</tspan><tspan
+           sodipodi:role="line"
+           x="216.05305"
+           y="171.80774"
+           id="tspan4161"
+           style="text-align:center;text-anchor:middle">language</tspan><tspan
+           sodipodi:role="line"
+           x="216.05305"
+           y="221.80774"
+           id="tspan4163"
+           style="text-align:center;text-anchor:middle">embedding</tspan></text>
+    </g>
+  </g>
+</svg>
