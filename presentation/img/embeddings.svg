@@ -15,7 +15,10 @@
    id="svg2"
    version="1.1"
    inkscape:version="0.91 r13725"
-   sodipodi:docname="embeddings.svg">
+   sodipodi:docname="embeddings.svg"
+   inkscape:export-filename="D:\Tmp\texata-finals\presentation\img\embeddings.png"
+   inkscape:export-xdpi="141.47"
+   inkscape:export-ydpi="141.47">
   <defs
      id="defs4" />
   <sodipodi:namedview
@@ -26,16 +29,17 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="0.98994949"
-     inkscape:cx="266.54748"
-     inkscape:cy="777.51835"
+     inkscape:cx="240.99093"
+     inkscape:cy="858.33055"
      inkscape:document-units="px"
-     inkscape:current-layer="g4153"
+     inkscape:current-layer="layer1"
      showgrid="false"
-     inkscape:window-width="1920"
-     inkscape:window-height="1004"
-     inkscape:window-x="0"
-     inkscape:window-y="24"
-     inkscape:window-maximized="1" />
+     inkscape:window-width="1536"
+     inkscape:window-height="803"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     showguides="false" />
   <metadata
      id="metadata7">
     <rdf:RDF>
@@ -44,7 +48,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -54,7 +58,7 @@
      id="layer1">
     <g
        id="g4146"
-       transform="translate(-17.172593,0)">
+       transform="translate(19.192897,5.0507628)">
       <circle
          r="136.37059"
          cy="225.04727"
@@ -85,7 +89,7 @@
            sodipodi:role="line">embedding</tspan></text>
     </g>
     <g
-       transform="translate(190.91883,2.0203051)"
+       transform="matrix(0.80279534,0,0,0.80279534,244.46155,64.581876)"
        id="g4153">
       <circle
          style="opacity:1;fill:none;fill-opacity:1;stroke:#09d100;stroke-width:5.15288401;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
@@ -107,12 +111,12 @@
            style="text-align:center;text-anchor:middle">Domain</tspan><tspan
            sodipodi:role="line"
            x="216.05305"
-           y="171.80774"
+           y="156.51463"
            id="tspan4161"
            style="text-align:center;text-anchor:middle">language</tspan><tspan
            sodipodi:role="line"
            x="216.05305"
-           y="221.80774"
+           y="191.22154"
            id="tspan4163"
            style="text-align:center;text-anchor:middle">embedding</tspan></text>
     </g>
